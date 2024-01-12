@@ -12,14 +12,7 @@ conda env activate minimal_chat
 
 
 * In order to run the app 
-    * either:
-```
-panel serve minimal_chat.ipynb
-```
-
-    * or:
-```
-jupyter-notebook minimal_chat.ipynb
-```
+    * either: `panel serve minimal_chat.ipynb`
+    * or: `jupyter-notebook minimal_chat.ipynb`
 
 Any help to get it running is greatly appreciated - many thanks in advance!
