@@ -16,6 +16,7 @@ conda env activate minimal_chat
 ```
 panel serve minimal_chat.ipynb
 ```
+
     * or:
 ```
 jupyter-notebook minimal_chat.ipynb
