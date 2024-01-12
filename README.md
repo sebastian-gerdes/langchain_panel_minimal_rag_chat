@@ -13,6 +13,9 @@ conda env activate minimal_chat
 
 * In order to run the app 
     * either: `panel serve minimal_chat.ipynb`
+        * Occuring problem: Just a blank webpage is displayed, no error message or further information
     * or: `jupyter-notebook minimal_chat.ipynb`
+        * The GUI appears - however, it crashes as soon as I want to input a question - no error message or further information provided in the notebook
+
 
 Any help to get it running is greatly appreciated - many thanks in advance!
